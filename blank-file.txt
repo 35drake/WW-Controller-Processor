@@ -1,1 +1,0 @@
-This is a blank file serving as a placeholder for the first git commit.
